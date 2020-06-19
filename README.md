@@ -2,9 +2,6 @@
 This is one of the best website sources that works perfectly with a RuneScape private server
 2009Scape-source: https://github.com/dginovker/2009Scape
 
-Demo: https://rs.mella.ga
-
-
 # Setting up the project
 Requirements:
 - 2009Scape server 
